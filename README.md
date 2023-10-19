@@ -1,4 +1,6 @@
 # SUPER-STORE-SALES-ANALYSIS
+![](Super_sales_store_logo.png)
+
 ## Introduction
 Superstore is a retail sales store that deals in diverse array of products ranging from furniture, office supplies, and technologic equipment which have been further grouped into corporate, home office and consumer segments. 
 It is exclusively an online store, with a number of outlets within the US states and shipping services available across all the United State. 
